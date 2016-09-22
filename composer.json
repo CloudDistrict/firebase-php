@@ -1,5 +1,5 @@
 {
-    "name": "kreait/firebase",
+    "name": "clouddistrict/firebase",
     "description": "PHP SDK for Google Firebase",
     "keywords": ["firebase", "google", "sdk", "api", "database"],
     "homepage": "https://github.com/kreait/firebase-php",
